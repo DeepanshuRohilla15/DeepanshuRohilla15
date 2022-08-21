@@ -30,5 +30,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=deepanshurohilla15&show_icons=true&locale=en" alt="deepanshurohilla15" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deepanshurohilla15&" alt="deepanshurohilla15" /></p>
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=DeepanshuRohilla15)](https://git.io/streak-stats)
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=deepanshurohilla15" alt="deepanshurohilla15" /></a> </p>

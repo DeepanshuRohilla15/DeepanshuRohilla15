@@ -28,7 +28,7 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=deepanshurohilla15)](https://git.io/streak-stats)
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=deepanshurohilla15&show_icons=true&locale=en" alt="deepanshurohilla15" /></p>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=deepanshurohilla15)](https://github.com/deepanshurohilla15/github-readme-stats)
 
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=deepanshurohilla15" alt="deepanshurohilla15" /></a> </p>

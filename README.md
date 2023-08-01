@@ -4,17 +4,17 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deepanshurohilla15&label=Profile%20views&color=0e75b6&style=flat" alt="deepanshurohilla15" /> </p>
 
 
-- 🔭 I’m currently working on **Web Applications project**
+- 🔭 I’m currently working on **Cloud DevOps & building CI/CD Pipelines**
 
 - 🌱 I’m currently learning **Data Structure and Algorithm**
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
-- 💬 Ask me about **Android**
+- 💬 Ask me about **DevOps**
 
 - 📫 How to reach me **dr1588566@gmail.com**
 
-- ⚡ Fun fact **I love to talking about technology**
+- ⚡ Fun fact **I'm a Cloud DevOps Engineer, Tech Blogger, Cricketer, Trekker, 10 Fingers-Fast Typist: 60 + WPM, Communicator and Community contributor**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

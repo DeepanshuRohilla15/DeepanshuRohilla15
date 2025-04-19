@@ -14,7 +14,7 @@
 
 - 📫 How to reach me **deerohilla786@gmail.com**
 
-- ⚡ Fun fact **I'm a Cloud DevOps Engineer, Tech Blogger, Cricketer, Communicator and Community contributor**
+- ⚡ Fun fact **I'm a Full Stack Engineer, Tech Blogger, Cricketer, Communicator and Community contributor**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
 
-- 💬 Ask me about **DevOps**
+- 💬 Ask me about **Frontend, Backend and Cloud**
 
 - 📫 How to reach me **deerohilla786@gmail.com**
 

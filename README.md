@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=deepanshurohilla15&label=Profile%20views&color=0e75b6&style=flat" alt="deepanshurohilla15" /> </p>
 
 
-- 🔭 I’m currently working on **Cloud DevOps & building CI/CD Pipelines**
+- 🔭 I’m currently working on **Full Stack Reactjs and Nodejs && Cloud DevOps && CI/CD Pipelines**
 
 - 🌱 I’m currently learning **Data Structure and Algorithm**
 
